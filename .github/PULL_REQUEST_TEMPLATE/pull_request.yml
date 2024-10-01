@@ -27,7 +27,8 @@ body:
     id: related_issue
     attributes:
       label: Related Issue
-      description: If applicable, reference the issue that this PR addresses. Format: Fixes #[issue number]
+      description: If applicable, reference the issue that this PR addresses. 
+      Format: Fixes #[issue number]
       placeholder: "Fixes #123"
 
   - type: textarea
